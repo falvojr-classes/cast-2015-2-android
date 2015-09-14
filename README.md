@@ -1,6 +1,6 @@
 <h1>Fundamentos do Android</h1>
 <p>Curso destinado a introdução e aplicação dos conceitos básicos para o desenvolvimento de aplicativos Android.
-<br>Este curso teve como base os Programas de Incentivo ao Conhecimento (PIC) já ministrado no Cast Group (disponíveis em <a href="https://github.com/RenanJPaula/fundamentos-android">fundamentos-android</a> e <a href="https://github.com/falvojr/fundamentos-android-2">fundamentos-android-2</a>).</p>
+<br>Este curso teve como base nos Programas de Incentivo ao Conhecimento (PIC) já ministrado no Cast Group (disponíveis em <a href="https://github.com/RenanJPaula/fundamentos-android">fundamentos-android</a> e <a href="https://github.com/falvojr/fundamentos-android-2">fundamentos-android-2</a>).</p>
 <h2>Tópicos abordados</h2>
 
 1.	<a href="https://docs.google.com/presentation/d/1BYDn1c0tYpRTrv_8pzUZf_HD8znF9SA8c16SLiQLNhU/edit?usp=sharing">Introdução</a>
