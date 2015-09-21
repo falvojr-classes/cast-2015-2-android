@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerenciador de Tarefas</string>
+
+    <string name="hello_world">Olá mundo!</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="lbl_login">Usuário</string>
+    <string name="lbl_password">Senha</string>
+    <string name="lbl_enter">Entrar</string>
+    <string name="lbl_name">Nome</string>
+    <string name="lbl_description">Descrição</string>
+    <string name="lbl_save">Salvar</string>
+    <string name="lbl_add">Adicionar</string>
+    <string name="lbl_delete">Remover</string>
+    <string name="lbl_edit">Editar</string>
+    <string name="lbl_confirm">Confirmação</string>
+    <string name="lbl_yes">Sim</string>
+    <string name="lbl_no">Não</string>
+    <string name="lbl_select_color">Selecione a cor</string>
+    <string name="lbl_cancel">Cancelar</string>
+
+    <string name="msg_welcome">Seja bem vindo %s!</string>
+    <string name="msg_required">Campo obrigatório!</string>
+    <string name="msg_save_success">Registro salvo com sucesso!</string>
+    <string name="msg_delete_success">Registro excluído com sucesso!</string>
+    <string name="msg_confirm_delete">Deseja excluir este registro?</string>
+
+</resources>

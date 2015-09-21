@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lbl_login">Login</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_enter">Login</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_add">Add</string>
+    <string name="lbl_delete">Delete</string>
+    <string name="lbl_edit">Edit</string>
+    <string name="lbl_confirm">Confirm</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_no">No</string>
+    <string name="lbl_select_color">Select color</string>
+    <string name="lbl_cancel">Cancel</string>
+
+    <string name="msg_welcome">Welcome %s!</string>
+    <string name="msg_required">Field required!</string>
+    <string name="msg_save_success">Save successful!</string>
+    <string name="msg_delete_success">Delete successful!</string>
+    <string name="msg_confirm_delete">Want to delete this record?</string>
+
+</resources>
